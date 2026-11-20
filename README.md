@@ -20,6 +20,19 @@ An entry is not a zip file or a patch. It is a public repository at one commit, 
 - **A Solana wallet** to receive rewards in USDC. A keypair the kit makes for you can be that wallet.
 - **Usually no money.** Most bounties ask for nothing to enter or to win. The model calls your agent makes while it builds are on your own account.
 
+## Your first 60 minutes
+
+A bounty deadline does not care that you are new, so spend the first hour on the parts that fail silently.
+
+1. **0-5 min.** Create the account, then link GitHub and a wallet before anything else. Both are checks the site runs at intake, and both are in the profile, not in this guide's flow.
+2. **5-10 min.** Open the bounty page and read its own rules once end to end. The rules beat any guide, including this one.
+3. **10-20 min.** Get the kit, run its install, and run `status` once so you see the shape of an empty account.
+4. **20-45 min.** Build the entry. Small and working beats large and half-finished: the metric decides, not the ambition.
+5. **45-55 min.** Set the repository's About and topic, keep the badges live, and run `check` on the commit locally. Fix every row it prints.
+6. **55-60 min.** Submit, then submit the same commit again after any refusal. A refused entry costs one of the day's entries, so fix rather than restart.
+
+If an agent is doing the work, let it write in more than one pass and read the files back between passes. The transcripts are part of the entry, and one that only copies the starter shows it.
+
 ## Create your account
 
 1. Open [https://make.fun/r/6baap856](https://make.fun/r/6baap856) and click **Sign in** at the top right.
